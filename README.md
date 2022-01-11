@@ -1,6 +1,4 @@
-# Lottery game with VueJS 2 / Veux / Firebase / TailwindCSS / Jest
-
-## Live Link here -> https://v2-lot.netlify.app
+### Lottery game with VueJS 2 / Veux / Firebase / TailwindCSS / Jest
 
 ## Project setup
 ```
