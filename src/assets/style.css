@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link {
+  @apply text-white text-lg px-3 py-2 rounded-md font-bold hover:underline hover:bg-gray-700;
+}
+
+.label {
+  @apply my-2 font-bold text-gray-100 sm:text-lg md:text-xl lg:text-2xl;
+}
